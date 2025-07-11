@@ -1,0 +1,10 @@
+@	IN	SOA	hivebedrock.network.	admin.hivebedrock.network. (
+				2014030801	; serial
+					1D	; refresh
+					1H	; retry
+					1W	; expire
+					3H )	; minimum
+@	300	NS	ns.hivebedrock.network.
+ns	300	IN	A	0.0.0.0
+@	300	IN	A	0.0.0.0
+geo	300	IN	A	0.0.0.0

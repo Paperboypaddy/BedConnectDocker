@@ -1,0 +1,9 @@
+@	IN	SOA	enchanted.gg.	admin.enchanted.gg. (
+				2014030801	; serial
+					1D	; refresh
+					1H	; retry
+					1W	; expire
+					3H )	; minimum
+@	300	NS	ns.enchanted.gg.
+ns	300	IN	A	0.0.0.0
+play	300	IN	A	0.0.0.0

@@ -1,0 +1,4 @@
+user_servers: false
+server_limit: 100
+port: 19132
+#custom_servers: "servers.json"
